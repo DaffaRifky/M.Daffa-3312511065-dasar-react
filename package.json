@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://DaffaRifky.github.io/M.Daffa-3312511065-dasar-react",
+  "homepage": "https://daffarifky.github.io/M.Daffa-3312511065-dasar-react/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
